@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6b418d10-cae2-46d5-8ba8-f4f0176650f9",
+  "id_short": 724958,
+  "published_at": "2026-04-16T19:10:13Z",
+  "repo_name": "tech-ready-restaurants-in-massachusetts-us-sample-724958",
+  "sample_asset_name": "beamstation_724958_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/724958/beamstation_724958_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "5b6a9398cac7064b6693b8008e596cdae5336be16b209f18ca1df2ff40fe0d6f",
+  "sample_size_bytes": 30998,
+  "total_records": 64
+}
