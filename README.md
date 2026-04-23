@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Massachusetts, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `724958` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 43 records |
-| Free sample size | 4 records (9.3%) |
-| Last export | 2026-04-15T09:58:55.647642+00:00 |
+| Full dataset size | 18 records |
+| Free sample size | 1 records (5.56%) |
+| Last export | 2026-04-22T17:24:15.416907+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-massachusetts-us-sample-724958/releases/download/sample-latest/beamstation_724958_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
